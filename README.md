@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there! This is Aniket Raj 👋 👋
 
+
+
+### 👀 I’m interested in Business Intelligence and Data Analysis
+
+🌱 I really enjoy exploring more about Data Analytical Tools | Generative AI | Machine Learning
 <!--
 **Aniket-Raj7/Aniket-Raj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
