@@ -2,9 +2,9 @@
 
 
 
-### 👀 I’m interested in Business Intelligence and Data Analysis
+### 👀 **I’m interested in Business Intelligence and Data Analysis**
 
-🌱 I really enjoy exploring more about Data Analytical Tools | Generative AI | Machine Learning
+🌱 **I really enjoy Unleashing the Power of Data**
 <!--
 **Aniket-Raj7/Aniket-Raj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
