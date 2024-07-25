@@ -3,7 +3,8 @@
 
 
  👀 I’m interested in Business Intelligence and Data Analysis<br>
-🌱 I really enjoy Unleashing the Power of Data**
+ <br>
+🌱 I really enjoy Unleashing the Power of Data | exploring more about Data Analytical Tools | Machine Learning
 <!--
 **Aniket-Raj7/Aniket-Raj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
