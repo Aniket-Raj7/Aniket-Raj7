@@ -1,4 +1,4 @@
-# Hi there! This is Aniket Raj 👋 👋
+# Hi there! This is Aniket Raj 👋 
 
 
 
