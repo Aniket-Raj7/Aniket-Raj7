@@ -2,7 +2,7 @@
 
 
 
- 👀 I’m interested in Business Intelligence and Data Analysis.<br>
+ - 👀 I’m interested in Business Intelligence and Data Analysis.<br>
  <br>
 🌱 I really enjoy Unleashing the Power of Data | exploring more about Data Analytical Tools | Machine Learning.
 <br>
